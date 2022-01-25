@@ -6,7 +6,7 @@ desktops via keyboard shortcuts in macOS.
 As someone who used Arch Linux and i3 for a very long time,
 I find transitions in macOS quite irritating. Worst of all are the
 transition delays that occur when switching desktops in Mission Control.
-Apple has yet to provide us with such a simple functionality. Until it does,
+Apple has yet to provide us with a way to remove them. Until it does,
 this is currently the only solution I have found that disables them.
 
 We will need <a href="https://www.hammerspoon.org/">Hammerspoon</a>
