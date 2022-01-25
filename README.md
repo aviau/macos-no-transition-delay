@@ -40,7 +40,7 @@ API.
 
 5. That's it! You can now switch desktops by holding "option" (or whatever key you set it to) and clicking on the Desktop number (1 through 0).
 
-6. <b>WARNING</b>. Make sure you have disabled all Mission Control Desktop shortcuts from `System Preferences / Keyboard / Shortcuts / Mission Control / Switch to Desktop X` or they will take priority.
+6. <b>WARNING</b>. Make sure you have disabled all Mission Control Desktop shortcuts from `System Preferences / Keyboard / Shortcuts / Mission Control / Switch to Desktop X` or they will take priority. Also make sure `Automatically rearrange Spaces based on most recent use` is disabled under `System Preferences / Mission Control`.
 
 7. <b>WARNING 2</b>. Any apps that like to switch Desktops by themselves (such as apps you assign to a particular Desktop) might mess the desktop up by not hiding certain windows. To recover simply switch to the active space back and forth once or twice.
 
